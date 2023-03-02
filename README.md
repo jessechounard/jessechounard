@@ -5,15 +5,3 @@ I'm a dad, a husband, and a lover of video games and technology. I've been excit
 I'm currently a Senior Software Engineer at [CAVA](https://cava.com/).
 
 Not actively looking for a new gig, but here's [my resume](https://docs.google.com/gview?url=https://github.com/jessechounard/jessechounard/raw/cf8ff21d94b504a8bf9c3737690f846adab8b10f/resume/resume_jessechounard.pdf&embedded=true).
-
-<p align="center">
-    <a href="https://hachyderm.io/@jessechounard">
-        <img src="https://skillicons.dev/icons?i=mastodon&theme=light" alt="Mastodon Icon">
-    </a>
-    <a href="https://www.linkedin.com/in/jesse-chounard/">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon" />
-    </a>
-    <a href="mailto:jessechounard@gmail.com">
-        <img src="images/gmail.svg" height="45">
-    </a>
-</p>

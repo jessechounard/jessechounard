@@ -1,6 +1,6 @@
 ## Heya! I'm Jesse Chounard.
 
-I'm a dad, a husband, and a lover of video games and technology. I've been excited about programming since I got a chance to play with BASIC on a Commodore 64 when I was eight years old. I love learning new programming languages and can't seem to stop buying books on new languages and technologies. My current favorite languages are Go, Rust, and TypeScript. I've also used C, C++, C#, CSS, Dart, HTML, Java, JavaScript, Lua, Objective-C, PHP, Python, Scala, Swift, plus a handful of assembly languages.
+I'm a dad, a husband, and a lover of video games and technology. I've been excited about programming since I got a chance to play with BASIC on a Commodore 64 when I was eight years old. I love learning new programming languages and can't seem to stop buying books on new languages and technologies. My current favorite languages are Go, Rust, and TypeScript. I've also used C, C++, C#, CSS, Dart, HTML, Java, JavaScript, Lua, Objective-C, PHP, Python, Scala, Swift, Zig, plus a handful of assembly languages.
 
 I'm currently a Senior Software Engineer at [CAVA](https://cava.com/).
 
